@@ -52,8 +52,8 @@ plugins:
   editorconfig:
     enabled: true
     channel: beta
-        config:
-          editorconfig: .editorconfig
+    config:
+      editorconfig: .editorconfig
 
 # exclude_patterns:
 #   - node_modules/*
